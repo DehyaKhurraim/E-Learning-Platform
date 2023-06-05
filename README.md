@@ -8,10 +8,9 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![made-with-javascript](https://img.shields.io/badge/Frontend%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![made-with-php](https://img.shields.io/badge/Backend%20with-PHP-1f425f.svg)](https://www.php.com)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-
+![made-with-javascript](https://img.shields.io/badge/Frontend%20with-JavaScript-1f425f.svg)
+![made-with-php](https://img.shields.io/badge/Backend%20with-PHP-1f425f.svg)
+![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 E GURU is an open-source, PHP-based e-learning platform designed to facilitate online education and training. It provides a robust set of features for both educators and learners, allowing for seamless communication, course management, and interactive learning experiences.
 
