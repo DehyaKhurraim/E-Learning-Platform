@@ -8,8 +8,8 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-PHP-1f425f.svg)](https://www.php.com)
+[![made-with-javascript](https://img.shields.io/badge/Frontend%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![made-with-php](https://img.shields.io/badge/Backend%20with-PHP-1f425f.svg)](https://www.php.com)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 
@@ -97,6 +97,8 @@ Contributions are welcome! If you'd like to contribute to E GURU, please follow 
 Please refer to the [contributing guidelines](https://github.com/DehyaKhurraim/E-Learning-Platform/CONTRIBUTING.md) for more information.
 
 ## License
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/DehyaKhurraim/E-Learning-Platform/blob/master/LICENSE)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/DehyaKhurraim/E-Learning-Platform/releases)
 
 E GURU is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the software as per the terms of the license.
 
